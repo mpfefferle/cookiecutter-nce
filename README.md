@@ -1,6 +1,9 @@
 Cookiecutter: Network Configuration Examples
 ============================================
 
+This is a cookiecutter template for defining network configuration
+examples.  The examples live in this repo: https://github.com/jeremyschulman/NCE.
+
 Prerequisites
 -------------
 
